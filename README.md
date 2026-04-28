@@ -3,9 +3,9 @@
 First Experimental V0.0.1: <a href='https://web-production-205b5.up.railway.app'>Link</a>
 <br>
 <h2>Logo:</h2>
-<div style='text-align:center;'>
-  <img src='Logo.png' style='display:inline-block;'>
-</div>
+<p align='center'>
+  <img src='Logo.png'>
+</p>
 <hr></hr>
 <br>
 <h2>Posts Page:</h2>
