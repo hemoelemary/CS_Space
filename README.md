@@ -6,7 +6,7 @@ First Experimental V0.0.1: <a href='https://web-production-205b5.up.railway.app'
 <img src='Logo.png'>
 <hr></hr>
 <br>
-<h2>Posts Pages:</h2>
+<h2>Posts Page:</h2>
 <img src='Posts.png'>
 <hr></hr>
 <br>
